@@ -1,0 +1,2 @@
+# teleportal-self-game
+help
